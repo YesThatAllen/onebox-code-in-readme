@@ -1,12 +1,12 @@
 ## This repo shows off the new code oneboxing in issues
 
 
-See issue 1  
+See issue [#1](https://github.com/YesThatAllen/onebox-code-in-readme/issues/1)  
 https://github.com/YesThatAllen/onebox-code-in-readme/issues/1  
 
-it's got a link where code is not oneboxed, and one which is. The difference is if the link is pointing to a commit.  
+It's got a link where code is not oneboxed, and one which is. The difference is if the link is pointing to a commit.  
 
-The question is, can readme's get the same love?  
+The question is, how can readme.md files get the same love?  
 
 If so, this would not be oneboxed:  
 
